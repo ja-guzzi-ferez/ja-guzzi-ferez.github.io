@@ -421,14 +421,177 @@
       </div>
     </div>
     <div class="mobile-fallback">
-      <img src="./guzzi.png" alt="" />
-      <h1>José Antonio Guzzi Ferez</h1>
-      <p>Master of Science in Physical Oceanography</p>
 
-      <p>Minimalist version for mobiles</p>
+      <!-- HEADER MÓVIL -->
+      <header class="mobile-header">
+        <h2 data-i18n="mobileTitle">Currículum Vitae</h2>
+        <p data-i18n="mobileSubtitle">
+          Versión optimizada para dispositivos móviles
+        </p>
 
-      <a href="CV_Antonio_Guzzi_English_2026.pdf" class="btn">Download CV</a>
-      <a href="mailto:guzzi.180993@gmail.com" class="btn">Email me</a>
+        <!-- Toggle idioma -->
+        <div class="language-toggle">
+          <span class="lang-label">ESP</span>
+          <input type="checkbox" id="language-switch-mobile" class="toggle-checkbox">
+          <label for="language-switch-mobile" class="toggle-label"></label>
+          <span class="lang-label">ENG</span>
+        </div>
+      </header>
+
+      <!-- PERFIL -->
+      <section class="mobile-card">
+        <img src="guzzi.png" class="mobile-avatar">
+
+        <h1>José Antonio Guzzi Ferez</h1>
+        <h3 data-i18n="profileSubtitle"></h3>
+
+        <p data-i18n="profileBio"></p>
+
+        <div class="mobile-actions">
+          <a href="CV_Antonio_Guzzi_English_2026.pdf"
+            class="btn"
+            data-i18n="downloadCV"></a>
+
+          <a href="mailto:guzzi.180993@gmail.com"
+            class="btn btn-outline"
+            data-i18n="contactMe"></a>
+        </div>
+      </section>
+
+      <!-- EXPERIENCIA -->
+      <section class="mobile-card">
+        <h2><i class="bx bx-briefcase"></i>
+          <span data-i18n="workExperienceTitle"></span>
+        </h2>
+
+        <div class="mobile-item">
+          <span data-i18n="work3Year"></span>
+          <strong data-i18n="work3Title"></strong>
+          <p data-i18n="work3Company"></p>
+          <p data-i18n="work3Desc"></p>
+        </div>
+
+        <div class="mobile-item">
+          <span data-i18n="work2Year"></span>
+          <strong data-i18n="work2Title"></strong>
+          <p data-i18n="work2Company"></p>
+          <p data-i18n="work2Desc"></p>
+        </div>
+
+        <div class="mobile-item">
+          <span data-i18n="work1Year"></span>
+          <strong data-i18n="work1Title"></strong>
+          <p data-i18n="work1Company"></p>
+          <p data-i18n="work1Desc"></p>
+        </div>
+      </section>
+
+      <!-- EDUCACIÓN -->
+      <section class="mobile-card">
+        <h2><i class="bx bx-graduation"></i>
+          <span data-i18n="educationTitle"></span>
+        </h2>
+
+        <div class="mobile-item">
+          <span data-i18n="edu3Year"></span>
+          <strong data-i18n="edu3Title"></strong>
+          <p data-i18n="edu3School"></p>
+          <p data-i18n="edu3Desc"></p>
+        </div>
+
+        <div class="mobile-item">
+          <span data-i18n="edu2Year"></span>
+          <strong data-i18n="edu2Title"></strong>
+          <p data-i18n="edu2School"></p>
+          <p data-i18n="edu2Desc"></p>
+        </div>
+
+        <div class="mobile-item">
+          <span data-i18n="edu1Year"></span>
+          <strong data-i18n="edu1Title"></strong>
+          <p data-i18n="edu1School"></p>
+          <p data-i18n="edu1Desc"></p>
+        </div>
+      </section>
+
+      <!-- CERTIFICACIONES -->
+      <section class="mobile-card">
+        <h2><i class="bx bx-certification"></i>
+          <span data-i18n="certificationsTitle"></span>
+        </h2>
+
+        <div class="mobile-item" data-i18n="cert1Title"></div>
+        <div class="mobile-item" data-i18n="cert2Title"></div>
+        <div class="mobile-item" data-i18n="cert3Title"></div>
+        <div class="mobile-item" data-i18n="cert4Title"></div>
+        <div class="mobile-item" data-i18n="cert5Title"></div>
+        <div class="mobile-item" data-i18n="cert6Title"></div>
+        <div class="mobile-item" data-i18n="cert7Title"></div>
+        <div class="mobile-item" data-i18n="cert8Title"></div>
+        <div class="mobile-item" data-i18n="cert9Title"></div>
+      </section>
+
+      <!-- SKILLS -->
+      <section class="mobile-card">
+        <h2><i class="bx bx-code-curly"></i>
+          <span data-i18n="skillsTitle"></span>
+        </h2>
+
+        <div class="mobile-skill-grid">
+          <span><i class="bx bxl-html5"></i> HTML</span>
+          <span><i class="bx bxl-css3"></i> CSS</span>
+          <span><i class="bx bxl-javascript"></i> JS</span>
+
+          <span><i class="bx bxl-nodejs"></i> Node.js</span>
+          <span><i class="bx bxl-php"></i> PHP</span>
+          <span><i class="bx bx-transfer" data-i18n="restAPI"></i> REST APIs</span>
+          <span><i class="bx bx-server" data-i18n="nginx"></i> Nginx</span>
+
+          <span><i class="bx bxl-python"></i> Python</span>
+          <span><i class="bx bx-line-chart"></i> MATLAB</span>
+          <span><i class="bx bx-stats"></i> R</span>
+          <span><i class="bx bx-data"></i> SQL</span>
+          
+          <span><i class="bx bxl-flutter"></i> Flutter</span>
+          <span><i class="bx bxl-android"></i> Android</span>
+        </div>
+      </section>
+
+      <!-- SERVICIOS -->
+      <section class="mobile-card">
+        <h2><i class="bx bx-cog"></i>
+          <span data-i18n="servicesTitle"></span>
+        </h2>
+
+        <div class="mobile-service">
+          <i class="bx bx-info-circle"></i>
+          <h3 data-i18n="service1Title"></h3>
+          <p data-i18n="service1Desc"></p>
+          <a class="btn" data-i18n="viewMore"></a>
+        </div>
+
+        <div class="mobile-service">
+          <i class="bx bx-line-chart"></i>
+          <h3 data-i18n="service2Title"></h3>
+          <p data-i18n="service2Desc"></p>
+          <a class="btn" data-i18n="viewMore"></a>
+        </div>
+
+        <div class="mobile-service">
+          <i class="bx bx-code-alt"></i>
+          <h3 data-i18n="service3Title"></h3>
+          <p data-i18n="service3Desc"></p>
+          <a class="btn" data-i18n="viewMore"></a>
+        </div>
+
+        <div class="mobile-service">
+          <i class="bx bx-cloud-snow"></i>
+          <h3 data-i18n="service4Title"></h3>
+          <p data-i18n="service4Desc"></p>
+          <a class="btn" data-i18n="viewMore"></a>
+        </div>
+      </section>
+
     </div>
 
     <!-- script -->
@@ -436,6 +599,7 @@
     <script src="script.js"></script>
   </body>
 </html>
+
 
 
 
