@@ -386,21 +386,41 @@ if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', () => {
         const langManager = new LanguageManager();
         
-        // Set up download CV button
-        const downloadBtn = document.querySelector('[data-i18n="downloadCV"]');
+        // Set up download CV button (desktop)
+        const downloadBtn = document.querySelector('[data-i18n="downloadCV"]:not(.download-cv-mobile)');
         if (downloadBtn) {
             downloadBtn.onclick = downloadCV;
             downloadBtn.style.cursor = 'pointer';
+        }
+        
+        // Set up download CV button (mobile)
+        const downloadBtnMobile = document.querySelector('.download-cv-mobile');
+        if (downloadBtnMobile) {
+            downloadBtnMobile.onclick = (e) => {
+                e.preventDefault();
+                downloadCV();
+            };
+            downloadBtnMobile.style.cursor = 'pointer';
         }
     });
 } else {
     const langManager = new LanguageManager();
     
-    // Set up download CV button
-    const downloadBtn = document.querySelector('[data-i18n="downloadCV"]');
+    // Set up download CV button (desktop)
+    const downloadBtn = document.querySelector('[data-i18n="downloadCV"]:not(.download-cv-mobile)');
     if (downloadBtn) {
         downloadBtn.onclick = downloadCV;
         downloadBtn.style.cursor = 'pointer';
+    }
+    
+    // Set up download CV button (mobile)
+    const downloadBtnMobile = document.querySelector('.download-cv-mobile');
+    if (downloadBtnMobile) {
+        downloadBtnMobile.onclick = (e) => {
+            e.preventDefault();
+            downloadCV();
+        };
+        downloadBtnMobile.style.cursor = 'pointer';
     }
 }
 
@@ -422,3 +442,4 @@ document.addEventListener('DOMContentLoaded', () => {
         desktopToggle.dispatchEvent(new Event('change'));
     });
 });
+
