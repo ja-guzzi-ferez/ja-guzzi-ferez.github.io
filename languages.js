@@ -403,3 +403,22 @@ if (document.readyState === 'loading') {
         downloadBtn.style.cursor = 'pointer';
     }
 }
+
+// ===============================
+// Sync mobile language toggle
+// ===============================
+document.addEventListener('DOMContentLoaded', () => {
+    const desktopToggle = document.getElementById('language-switch');
+    const mobileToggle  = document.getElementById('language-switch-mobile');
+
+    if (!desktopToggle || !mobileToggle) return;
+
+    // Sync initial state
+    mobileToggle.checked = desktopToggle.checked;
+
+    // When mobile toggle changes → reuse LanguageManager
+    mobileToggle.addEventListener('change', () => {
+        desktopToggle.checked = mobileToggle.checked;
+        desktopToggle.dispatchEvent(new Event('change'));
+    });
+});
