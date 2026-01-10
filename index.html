@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CV J-A-Guzzi-Ferez</title>
+    <!-- BoxIcon -->
+    <link
+      href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+    <!-- style -->
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="cover cover-left"></div>
+      <div class="cover cover-right"></div>
+
+      <div class="book">
+        <!-- profile page -->
+        <div class="book-page page-left">
+          <div class="profile-page">
+            <img src="./guzzi.png" alt="" />
+            
+            <!-- Language Toggle -->
+            <div class="language-toggle">
+              <span class="lang-label lang-es">ESP</span>
+              <input type="checkbox" id="language-switch" class="toggle-checkbox">
+              <label for="language-switch" class="toggle-label"></label>
+              <span class="lang-label lang-en">ENG</span>
+            </div>
+            
+            <h1>José Antonio Guzzi Ferez</h1>
+            <h3 data-i18n="profileSubtitle">Maestro en Ciencias en Oceanografía Física</h3>
+
+            <div class="social-media">
+              <a href="https://www.facebook.com/share/1Cq86dhhS4/" target="_blank"><i class="bx bxl-facebook"></i></a>
+              <a href="#"><i class="bx bxl-twitter"></i></a>
+              <a href="https://www.instagram.com/antonioguzziferez?igsh=OHliMzF0dWwzcGN3" target="_blank"><i class="bx bxl-instagram"></i></a>
+              <a href="https://www.linkedin.com/in/jose-antonio-guzzi-ferez-834025270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><i class="bx bxl-linkedin-square"></i></a>
+            </div>
+
+            <p data-i18n="profileBio">
+              Egresado de la maestría en ciencias en oceanografía fisca en CICESE, 
+              con experiencia en investigación en materia de contaminación y cambio climático.
+              Tengo habilidades en programación y análisis de datos, así como en el uso de herramientas de modelado numérico.
+              Busco oportunidades para aplicar mis conocimientos y contribuir al avance de la ciencia.
+            </p>
+
+            <div class="btn-box">
+              <a href="#" class="btn" data-i18n="downloadCV">Descargar CV</a>
+              <a href="#" class="btn contact-me" data-i18n="contactMe">Contactame!</a>
+            </div>
+          </div>
+        </div>
+
+        <!-- page 1 & 2 -->
+        <div class="book-page page-right turn" id="turn-1">
+          <!-- page 1 (work experience) -->
+          <div class="page-front">
+            <h1 class="title" data-i18n="workExperienceTitle">Experiencia Laboral</h1>
+
+            <div class="workeduc-box">
+              <div class="workeduc-content">
+                <span class="year" data-i18n="work1Year"><i class="bx bxs-calendar"></i>2018 - 2019</span>
+                <h3 data-i18n="work1Title">Tecnico Instalador "A"</h3>
+                <h4 data-i18n="work1Company">Grupo Carso</h4>
+                <p data-i18n="work1Desc">Instalacion y mantenimiento de redes de telecomunicaciones, fibra optica y cobre.</p>
+              </div>
+
+              <div class="workeduc-content">
+                <span class="year" data-i18n="work2Year"><i class="bx bxs-calendar"></i>2022 - 2023</span>
+                <h3 data-i18n="work2Title">Profesor interino asociado "A" 3/4 de tiempo</h3>
+                <h4 data-i18n="work2Company">Secretaria de educación de Veracruz</h4>
+                <p data-i18n="work2Desc">Docencia, impartir clases de diferentes asignaturas a alumnos de telebachillerato y coordinar actividades culturales del plantel.</p>
+              </div>
+
+              <div class="workeduc-content">
+                <span class="year" data-i18n="work3Year"><i class="bx bxs-calendar"></i>2023 - 2025</span>
+                <h3 data-i18n="work3Title">Jefe de Monitoreo y Alertamiento de Fenómenos Perturbadores</h3>
+                <h4 data-i18n="work3Company">Unidad estatal de Protección Civil y Bomberos del Estado de Jalisco</h4>
+                <p data-i18n="work3Desc">Elaboración de sistemas de alerta temprana, pronósticos meteorológicos, modelación meteorológica, instrumentación meteorológica, desarrollo web y programacion en Python.</p>
+              </div>
+            </div>
+            <span class="number-page">1</span>
+
+            <!-- next button -->
+            <span class="nextprev-btn" data-page="turn-1">
+              <i class="bx bx-chevron-right"></i>
+            </span>
+          </div>
+
+          <!-- page 2 (education) -->
+          <div class="page-back">
+            <h1 class="title" data-i18n="educationTitle">Educación</h1>
+
+            <div class="workeduc-box">
+              <div class="workeduc-content">
+                <span class="year"
+                  ><i class="bx bxs-calendar"></i>2009 - 2012</span
+                >
+                <h3 data-i18n="edu1Title">Capacitacion en lenguaje HTML, CSS y JavaScript</h3>
+                <h4 data-i18n="edu1School">Bachillerato Constitucion de 1917</h4>
+                <p data-i18n="edu1Desc">
+                  Desarrollo de paginas web estaticas y dinamicas utilizando HTML, CSS y JavaScript.
+                </p>
+              </div>
+
+              <div class="workeduc-content">
+                <span class="year"
+                  ><i class="bx bxs-calendar"></i>2012 - 2018</span
+                >
+                <h3 data-i18n="edu2Title">Licenciatura en ciencias atmosféricas</h3>
+                <h4 data-i18n="edu2School">Universidad Veracruzana</h4>
+                <p data-i18n="edu2Desc">
+                  Colabore como coautor en el capítulo 16 del libro 
+                  “Vulnerabilidad de las zonas costeras de Latinoamérica 
+                  al cambio climático”. ISBN 978-607-606-416-0
+
+                </p>
+              </div>
+
+              <div class="workeduc-content">
+                <span class="year"
+                  ><i class="bx bxs-calendar"></i>2019 - 2022</span
+                >
+                <h3 data-i18n="edu3Title">Maestría en ciencias en oceanográfica física</h3>
+                <h4>Centro de investigación científica y educación superior de ensenada, 
+                  Baja California (CICESE)</h4>
+                <p data-i18n="edu3Desc">
+                  Investigación de tesis en el tema 
+                  “Dispersión de contaminantes atmosféricos emitidos 
+                  por una central termoeléctrica en La Paz, 
+                  Baja California Sur utilizando un modelo lagrangiano”.
+                </p>
+              </div>
+            </div>
+
+            <span class="number-page">2</span>
+
+            <!-- prev button -->
+            <span class="nextprev-btn back" data-page="turn-1">
+              <i class="bx bx-chevron-left"></i>
+            </span>
+          </div>
+        </div>
+
+
+        <!-- page 3 & 4 -->
+        <div class="book-page page-right turn" id="turn-2">
+          <!-- page 3 (mis cursos) -->
+          <div class="page-front">
+            <h1 class="title" data-i18n="certificationsTitle">Certificaciones</h1>
+
+            <div class="workeduc-box">
+              <div class="workeduc-content">
+                <span class="year" data-i18n="cert1Year"><i class="bx bxs-calendar"></i>2017</span>
+                <h4 data-i18n="cert1Title">Predicción numérica del tiempo a través del modelo WRF</h4>
+                <p data-i18n="cert1School">Universidad Veracruzana</p>
+              </div>
+
+              <div class="workeduc-content">
+                <span class="year" data-i18n="cert2Year"><i class="bx bxs-calendar"></i>2018</span>
+                <h4 data-i18n="cert2Title">Introducción a las Ondas en la Atmósfera-Océano</h4>
+                <p data-i18n="cert2School">Universidad Veracruzana</p>
+              </div>
+
+              <div class="workeduc-content">
+                <span class="year" data-i18n="cert3Year"><i class="bx bxs-calendar"></i>2018</span>
+                <h4 data-i18n="cert3Title">Instalación y Mantenimiento de lineas de Fibra Óptica y Cobre</h4>
+                <p data-i18n="cert3School">Telmex. Numero de certificación: 1323604-102124</p>
+              </div>
+
+              <div class="workeduc-content">
+                <span class="year" data-i18n="cert4Year"><i class="bx bxs-calendar"></i>2023</span>
+                <h4 data-i18n="cert4Title">Introducción a la Protección Civil y Fenómenos Perturbadores</h4>
+                <p data-i18n="cert4School">Unidad Estatal de Protección Civil y Bomberos Jalisco</p>
+              </div>
+
+              <div class="workeduc-content">
+                <span class="year" data-i18n="cert5Year"><i class="bx bxs-calendar"></i>2023</span>
+                <h4 data-i18n="cert5Title">Primeros Auxilios</h4>
+                <p data-i18n="cert5School">Unidad Estatal de Protección Civil y Bomberos Jalisco</p>
+              </div>
+            </div>
+
+            <span class="number-page">3</span>
+
+            <!-- next button -->
+            <span class="nextprev-btn" data-page="turn-2">
+              <i class="bx bx-chevron-right"></i>
+            </span>
+
+          </div>
+          <!-- page 4 (mis cursos continuacion)  -->
+          <div class="page-back">
+            <h1 class="title" data-i18n="certificationsTitle">Certificaciones</h1>
+
+            <div class="workeduc-box">
+              <div class="workeduc-content">
+                <span class="year" data-i18n="cert6Year"><i class="bx bxs-calendar"></i>2023</span>
+                <h4 data-i18n="cert6Title">Certificado profesional de Análisis de datos de Google</h4>
+                <p data-i18n="cert6School">Google Career Certificates</p>
+              </div>
+
+              <div class="workeduc-content">
+                <span class="year" data-i18n="cert7Year"><i class="bx bxs-calendar"></i>2024</span>
+                <h4 data-i18n="cert7Title">Procesos y Herramientas Didácticas Para Instructores</h4>
+                <p data-i18n="cert7School">Unidad Estatal de Protección Civil y Bomberos Jalisco</p>
+              </div>
+
+              <div class="workeduc-content">
+                <span class="year" data-i18n="cert8Year"><i class="bx bxs-calendar"></i>2025</span>
+                <h4 data-i18n="cert8Title">Continuidad de Operaciones</h4>
+                <p data-i18n="cert8School">Coordinación Nacional de Protección Civil y Coordinación Estatal de Protección Civil de Yucatán</p>
+              </div>
+
+              <div class="workeduc-content">
+                <span class="year" data-i18n="cert9Year"><i class="bx bxs-calendar"></i>2025</span>
+                <h4 data-i18n="cert9Title">Aplicaciones de los Vehículos Aéreos</h4>
+                <p data-i18n="cert9School">Coordinación Nacional de Protección Civil y Coordinación Estatal de Protección Civil de Yucatán</p>
+              </div>
+
+            </div>
+
+            <span class="number-page">4</span>
+
+            <!-- next button -->
+            <span class="nextprev-btn back" data-page="turn-2">
+              <i class="bx bx-chevron-left"></i>
+            </span>
+
+          </div>
+        </div>
+
+
+        <!-- page 5 & 6 -->
+        <div class="book-page page-right turn" id="turn-3">
+          <!-- page 5 (my skills) -->
+          <div class="page-front">
+            <h1 class="title" data-i18n="skillsTitle">Mis Habilidades</h1>
+
+            <div class="skills-box">
+
+              <div class="skills-content">
+                <h3 data-i18n="frontEnd">Front-End</h3>
+                <div class="content">
+                  <span><i class="bx bxl-html5"></i> HTML</span>
+                  <span><i class="bx bxl-css3"></i> CSS</span>
+                  <span><i class="bx bxl-javascript"></i> JavaScript</span>
+                </div>
+              </div>
+
+              <div class="skills-content">
+                <h3 data-i18n="backEnd">Back-End</h3>
+                <div class="content">
+                  <span><i class="bx bxl-nodejs"></i> Node.js</span>
+                  <span><i class="bx bxl-php"></i> PHP</span>
+                  <span><i class="bx bx-transfer" data-i18n="restAPI"></i> REST APIs</span>
+                  <span><i class="bx bx-server" data-i18n="nginx"></i> Nginx</span>
+                </div>
+              </div>
+
+              <div class="skills-content">
+                <h3 data-i18n="programmingLanguages">Lenguajes de Programación</h3>
+                <div class="content">
+                  <span><i class="bx bxl-python"></i> Python</span>
+                  <span><i class="bx bx-line-chart" data-i18n="lineChart"></i> MATLAB</span>
+                  <span><i class="bx bx-stats" data-i18n="stats"></i> R</span>
+                  <span><i class="bx bx-data" data-i18n="dataManagement"></i> SQL</span>
+                </div>
+              </div>
+
+              <div class="skills-content">
+                <h3 data-i18n="mobileDevelopment">Desarrollo Móvil</h3>
+                <div class="content">
+                  <span><i class="bx bxl-flutter"></i> Flutter</span>
+                  <span><i class="bx bxl-android"></i> Android</span>
+                </div>
+              </div>
+
+            </div>
+
+
+
+            <span class="number-page">5</span>
+
+            <!-- next button -->
+            <span class="nextprev-btn" data-page="turn-3">
+              <i class="bx bx-chevron-right"></i>
+            </span>
+          </div>
+          <!-- page 6 (mis servicios) -->
+          <div class="page-back">
+            <h1 class="title" data-i18n="servicesTitle">Mis Servicios</h1>
+
+            <div class="services-box">
+              <div class="services-content">
+                <i class="bx bx-info-circle"></i>
+                <h3 data-i18n="service1Title">Sistemas de Alerta Temprana</h3>
+                <p data-i18n="service1Desc">
+                  Diseño e implementación de sistemas de monitoreo y alertamiento
+                  hidrometeorológico.
+                </p>
+                <a href="https://t.me/meteojalisco" target="_blank" class="btn" data-i18n="viewMore">Ver más</a>
+              </div>
+
+              <div class="services-content">
+                <i class="bx bx-line-chart"></i>
+                <h3 data-i18n="service2Title">Visualización de Datos</h3>
+                <p data-i18n="service2Desc">
+                  Desarrollo de dashboards interactivos, mapas y gráficos para análisis
+                  de datos.
+                </p>
+                <a href="https://meteowrf.jmafp.xyz/dashboard.html" target="_blank" class="btn" data-i18n="viewMore">Ver más</a>
+              </div>
+
+              <div class="services-content">
+                <i class="bx bx-code-alt"></i>
+                <h3 data-i18n="service3Title">Desarrollo de Sistemas Web</h3>
+                <p data-i18n="service3Desc">
+                  Desarrollo de sistemas web técnicos orientados a datos,
+                  automatización de procesos y servicios backend.
+                </p>
+                <a href="https://meteowrf.jmafp.xyz/CCI.html" target="_blank" class="btn" data-i18n="viewMore">Ver más</a>
+              </div>
+
+              <div class="services-content">
+                <i class="bx bx-cloud-snow"></i>
+                <h3 data-i18n="service4Title">Modelación Meteorológica</h3>
+                <p data-i18n="service4Desc">
+                  Configuración, ejecución y análisis de modelos numéricos
+                  para pronóstico meteorológico y estudios ambientales.
+                </p>
+                <a href="https://meteowrf.jmafp.xyz/wrf.html" target="_blank" class="btn" data-i18n="viewMore">Ver más</a>
+              </div>
+            </div>
+
+
+            <span class="number-page">6</span>
+
+            <!-- next button -->
+            <span class="nextprev-btn back" data-page="turn-3">
+              <i class="bx bx-chevron-left"></i>
+            </span>
+
+          </div>
+        </div>
+
+            <!-- paginas 5 & 6 -->
+            <div class="book-page page-right turn" id="turn-4">
+                <!-- pagina 5 (ultimo proyecto) -->
+                <div class="page-front">
+                    <h1 class="title" data-i18n="latestProjectTitle">Ultimo Proyecto</h1>
+
+                    <div class="portfolio-box">
+                        <div class="img-box">
+                            <img src="hidro_alert3.png" alt="">
+                        </div>
+
+                        <div class="info-box">
+                            <div class="info-title">
+                                <h3 data-i18n="projectName">HidroCliMet Alert</h3>
+                            </div>
+                            <p><strong data-i18n="projectdesctit">Descripción:</strong></p>
+                            <p data-i18n="projectDesc">
+                              Aplicación móvil de alertamiento basada en ubicación,
+                              diseñada para notificar oportunamente a la población sobre fenómenos
+                              meteorológicos y riesgos asociados.
+                            </p>
+                            <p><strong data-i18n="projectTools">Herramientas utilizadas:</strong></p>
+                            <p data-i18n="projectToolsDesc">
+                              Flutter, sistemas backend propios, procesamiento de datos meteorológicos
+                              y servicios de notificación en tiempo real.
+                            </p>
+                        </div>
+                        <div class="btn-box">
+                            <a href="#" class="btn" data-i18n="download">Descargar (en proceso)</a>
+                            <a href="https://meteowrf.jmafp.xyz/" target="_blank" class="btn" data-i18n="moreProjects">Mas Proyectos</a>
+    
+                        </div>
+                    </div>
+
+                    <span class="number-page">7</span>
+
+                    <!-- next button -->
+                    <span class="nextprev-btn" data-page="turn-4">
+                      <i class="bx bx-chevron-right"></i>
+                    </span>
+                </div>
+
+
+                <!-- pagina 6 (contactame!) -->
+                <div class="page-back">
+                    <h1 class="title" data-i18n="contactTitle">Contactame!</h1>
+
+                    <div class="contact-box">
+                      <form action="https://formsubmit.co/c6a9ef8d3d88b7ce301c2d6403862174" method="POST">
+                        <input type="text" name="Nombre" class="field" data-i18n="fullName" placeholder="Nombre Completo y/o Asunto" required>
+                        <input type="email" name="email" class="field" data-i18n="emailAddress" placeholder="Correo Electronico" required>
+                        <textarea name="Mensaje" cols="30" rows="10" class="field" data-i18n="message" placeholder="Tu Mensaje" required></textarea>
+                        <input type="submit" value="Enviar Mensaje" class="btn" data-i18n="sendMessage">
+                      </form>
+                    </div>
+
+                    <span class="number-page">8</span>
+
+                    <!-- next button -->
+                    <span class="nextprev-btn back" data-page="turn-4">
+                      <i class="bx bx-chevron-left"></i>
+                    </span>
+
+                    <a href="#" class="back-profile">
+                      <p data-i18n="profile">Perfil</p>
+                      <i class="bx bxs-user"></i>
+                    </a>
+                </div>
+
+            </div>
+      </div>
+    </div>
+
+    <!-- script -->
+    <script src="languages.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
