@@ -38,6 +38,51 @@ body{
     perspective: 250rem;
     animation: show-animate 2s forwards;
 }
+@media (max-width: 1400px) {
+    .wrapper {
+        transform: scale(0.8);
+    }
+}
+
+@media (max-width: 1200px) {
+    .wrapper {
+        transform: scale(0.75);
+    }
+}
+
+@media (max-width: 1100px) {
+    .wrapper {
+        transform: scale(0.7);
+    }
+}
+@media (max-height: 800px) {
+    body {
+        overflow-y: auto;
+    }
+}
+@media (max-width: 768px) {
+    .wrapper {
+        display: none;
+    }
+}
+.mobile-fallback {
+    display: none;
+}
+
+@media (max-width: 768px) {
+    .mobile-fallback {
+        display: block;
+        padding: 2rem 1.5rem;
+        color: var(--white-color);
+        text-align: center;
+    }
+
+    .mobile-fallback .btn {
+        margin: 0.5rem 0;
+        width: 100%;
+    }
+}
+
 @keyframes show-animate {
     0%,
     30% {
@@ -541,4 +586,5 @@ body{
     opacity: 1;
     transform: translateX(-50%) scale(1);
     top: -1.8rem;
+
 }
