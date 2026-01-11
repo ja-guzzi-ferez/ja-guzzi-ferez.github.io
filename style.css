@@ -76,6 +76,7 @@ body{
     }
 }
 
+
 @keyframes show-animate {
     0%,
     30% {
@@ -579,8 +580,9 @@ body{
     opacity: 1;
     transform: translateX(-50%) scale(1);
     top: -1.8rem;
-
 }
+
+
 
 
 
@@ -650,6 +652,17 @@ body{
     color: var(--main-color);
   }
 
+  .mobile-skill-section {
+    margin-bottom: 1.5rem;
+  }
+
+  .mobile-skill-section h3 {
+    font-size: 1rem;
+    margin-bottom: 0.8rem;
+    color: var(--main-color);
+    font-weight: 600;
+  }
+
   .mobile-skill-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -662,6 +675,16 @@ body{
     padding: .6rem;
     font-size: .8rem;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .mobile-skill-grid span i {
+    font-size: 1.5rem;
+    margin-bottom: .3rem;
+    color: var(--main-color);
   }
 
   .mobile-service {
@@ -677,6 +700,25 @@ body{
     color: var(--main-color);
   }
 
+  .mobile-project-img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 0.6rem;
+    margin-bottom: 1rem;
+    border: var(--border);
+  }
+
+  .mobile-project-buttons {
+    display: flex;
+    gap: 0.5rem;
+    margin-top: 1rem;
+  }
+
+  .mobile-project-buttons .btn {
+    flex: 1;
+  }
+
   .mobile-actions {
     display: flex;
     flex-direction: column;
@@ -689,3 +731,4 @@ body{
     color: var(--main-color);
   }
 }
+
