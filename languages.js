@@ -370,8 +370,8 @@ class LanguageManager {
 function downloadCV() {
     const currentLanguage = localStorage.getItem('language') || 'es';
     const fileName = currentLanguage === 'es' 
-        ? 'CV_Antonio_Guzzi_2026.pdf' 
-        : 'CV_Antonio_Guzzi_English_2026.pdf';
+        ? 'pdf/CV_Antonio_Guzzi_2026.pdf' 
+        : 'pdf/CV_Antonio_Guzzi_English_2026.pdf';
     
     const link = document.createElement('a');
     link.href = fileName;
@@ -442,5 +442,6 @@ document.addEventListener('DOMContentLoaded', () => {
         desktopToggle.dispatchEvent(new Event('change'));
     });
 });
+
 
 
