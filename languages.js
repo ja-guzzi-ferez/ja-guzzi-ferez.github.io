@@ -98,7 +98,7 @@ const translations = {
         projectTools: "Herramientas utilizadas:",
         projectToolsDesc: "Flutter, sistemas backend propios, procesamiento de datos meteorológicos y servicios de notificación en tiempo real.",
         download: "Descargar (en proceso)",
-        moreProjects: "Mas Proyectos",
+        moreProjects: "Portafolio",
         
         // Page 8 - Contact
         contactTitle: "Contactame!",
@@ -223,7 +223,7 @@ const translations = {
         projectTools: "Tools Used:",
         projectToolsDesc: "Flutter, custom backend systems, meteorological data processing, and real-time notification services.",
         download: "Download (in progress)",
-        moreProjects: "More Projects",
+        moreProjects: "Portfolio",
 
         // Page 8 - Contact
         contactTitle: "Contact Me",
@@ -442,4 +442,5 @@ document.addEventListener('DOMContentLoaded', () => {
         desktopToggle.dispatchEvent(new Event('change'));
     });
 });
+
 
