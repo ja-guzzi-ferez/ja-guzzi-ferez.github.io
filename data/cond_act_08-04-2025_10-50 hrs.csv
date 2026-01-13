@@ -1,0 +1,108 @@
+,estacion,link,localidad,temp_C,razon_lluvia,HR,vel_viento,racha_viento,acum_calc,letra_dir,REGIÓN_2,MPO_2,REF
+0,IENCAR2,https://www.wunderground.com/dashboard/pws/IENCAR2,"Encarnación de Díaz, MX",18.000000000000004,0.0,38,13.354700000000001,16.5727,0.0,SW,ALTOS NORTE,Encarnación de Díaz,Localidad El codo
+2,ISANJU139,https://www.wunderground.com/dashboard/pws/ISANJU139,"San Juan de los Lagos, MX",19.444444444444443,0.0,42,9.654,19.308,0.0,NE,ALTOS NORTE,San Juan de los Lagos,Base 08
+4,ITEOCA2,https://www.wunderground.com/dashboard/pws/ITEOCA2,"Teocaltiche, MX",17.72222222222222,0.0,38,14.8028,19.147100000000002,0.0,NE,ALTOS NORTE,Teocaltiche,Localidad San Bernardo
+5,ILAGOS78,https://www.wunderground.com/dashboard/pws/ILAGOS78,"Lagos de Moreno, MX",19.333333333333332,0.0,36,5.7924,7.2405,0.0,NNE,ALTOS NORTE,Lagos de Moreno,Parque Industrial
+6,ILAGOS80,https://www.wunderground.com/dashboard/pws/ILAGOS80,"Lagos de Moreno, MX",20.38888888888889,0.0,29,3.8615999999999997,3.8615999999999997,0.0,ENE,ALTOS NORTE,Lagos de Moreno,CULAGOS
+7,IARAND7,https://www.wunderground.com/dashboard/pws/IARAND7,"Arandas, MX",17.27777777777778,0.0,48,2.0917,3.5398,0.0,NNE,ALTOS SUR,Arandas,Centro
+9,ITEPAT5,https://www.wunderground.com/dashboard/pws/ITEPAT5,"Tepatitlán de Morelos Municipality, MX",18.22222222222222,0.0,38,17.2163,22.0433,0.0,ENE,ALTOS SUR,Tepatitlán de Morelos,Rancho Gomez Franco
+10,ISANTA1289,https://www.wunderground.com/dashboard/pws/ISANTA1289,"Santa María del Valle, MX",20.27777777777778,0.0,10,0.0,0.0,0.0,SSE,ALTOS SUR,Arandas,Localidad Santa Maria del Valle
+11,IARAND35,https://www.wunderground.com/dashboard/pws/IARAND35,"Arandas, MX",18.111111111111107,0.0,44,4.6661,7.2405,0.0,N,ALTOS SUR,Arandas,Localidad Santa Maria del Nopal
+12,ICHAPALA2,https://www.wunderground.com/dashboard/pws/ICHAPALA2,"Chapala, MX",23.111111111111107,0.0,40,0.0,9.654,0.0,ENE,CENTRO,Ixtlahuacán de los Membrillos,Brisas de Chapala
+13,IGUADALA32,https://www.wunderground.com/dashboard/pws/IGUADALA32,"Guadalajara Municipality, MX",23.77777777777778,0.0,33,8.045,11.263,0.0,NNW,CENTRO,Guadalajara,Country Club
+14,IGUADA112,https://www.wunderground.com/dashboard/pws/IGUADA112,"Guadalajara, MX",21.11111111111111,0.0,31,6.436,20.917,0.0,E,CENTRO,Guadalajara,Base Central
+16,IGUADA147,https://www.wunderground.com/dashboard/pws/IGUADA147,"Guadalajara, MX",23.277777777777782,,40,5.9533000000000005,,0.0,WNW,CENTRO,Guadalajara,Jardines de la Cruz
+17,ILOSGA1,https://www.wunderground.com/dashboard/pws/ILOSGA1,"Los Gavilanes, MX",20.500000000000004,0.0,38,8.688600000000001,14.8028,0.0,E,CENTRO,Tlajomulco de Zúñiga,La Rioja
+18,INEXTI1,https://www.wunderground.com/dashboard/pws/INEXTI1,"Nextipac, MX",18.277777777777782,0.0,30,4.827,20.917,0.0,E,CENTRO,Zapopan,Nextipac
+19,ITLAQU4,https://www.wunderground.com/dashboard/pws/ITLAQU4,"Tlaquepaque, MX",20.72222222222222,0.0,35,4.9879,9.3322,0.0,NE,CENTRO,San Pedro Tlaquepaque,Cerro de La Cruz
+20,ITESISTN2,https://www.wunderground.com/dashboard/pws/ITESISTN2,"Tesistán, MX",20.166666666666668,0.0,27,11.263,27.353,0.0,NE,CENTRO,Zapopan,Santa Lucia
+21,ITLAJO3,https://www.wunderground.com/dashboard/pws/ITLAJO3,"Tlajomulco de Zúñiga, MX",21.166666666666664,0.0,31,10.619399999999999,25.744,0.0,ENE,CENTRO,Tlajomulco de Zúñiga,UTZMG
+22,IZAPOP1,https://www.wunderground.com/dashboard/pws/IZAPOP1,"Zapopan, MX",24.444444444444443,,38,0.0,8.045,0.0,E,CENTRO,Zapopan,Loma Bonita
+23,IZAPOP4,https://www.wunderground.com/dashboard/pws/IZAPOP4,"Zapopan, MX",18.77777777777778,0.0,40,12.872,20.917,0.0,N,CENTRO,Zapopan,Miramar
+24,IZAPOP5,https://www.wunderground.com/dashboard/pws/IZAPOP5,"Zapopan, MX",19.61111111111111,0.0,25,3.218,17.698999999999998,0.0,NW,CENTRO,Zapopan,Lomas de Montechelo
+25,IZAPOP6,https://www.wunderground.com/dashboard/pws/IZAPOP6,"Zapopan, MX",21.0,0.0,32,17.698999999999998,32.18,0.0,N,CENTRO,Zapopan,Region Militar V
+28,IZAPOPAN27,https://www.wunderground.com/dashboard/pws/IZAPOPAN27,"Zapopan, MX",19.333333333333332,0.0,33,20.917,24.134999999999998,0.0,ENE,CENTRO,Zapopan,Technology Park
+29,IZAPOPAN29,https://www.wunderground.com/dashboard/pws/IZAPOPAN29,"Zapopan, MX",18.555555555555557,0.0,36,8.045,19.308,0.0,ENE,CENTRO,Zapopan,Estadio 3 de Marzo
+30,IZAPOP30,https://www.wunderground.com/dashboard/pws/IZAPOP30,"Zapopan, MX",21.555555555555557,0.0,32,9.654,11.263,0.0,ENE,CENTRO,Zapopan,Tianguis del Sol
+32,IZAPOPAN32,https://www.wunderground.com/dashboard/pws/IZAPOPAN32,"Zapopan, MX",17.88888888888889,0.0,37,3.218,24.134999999999998,0.0,E,CENTRO,Zapopan,Preparatoria No. 20 UDG
+33,IZAPOP35,https://www.wunderground.com/dashboard/pws/IZAPOP35,"Zapopan, MX",18.388888888888886,0.0,36,14.963700000000001,18.3426,0.0,E,CENTRO,Zapopan,Los Robles residencial
+34,IZAPOPAN36,https://www.wunderground.com/dashboard/pws/IZAPOPAN36,"Zapopan, MX",19.111111111111114,0.0,31,19.308,27.353,0.0,NNW,CENTRO,Zapopan,Bosque del Centinela
+35,IZAPOPAN37,https://www.wunderground.com/dashboard/pws/IZAPOPAN37,"Zapopan, MX",18.444444444444443,0.0,35,19.308,19.308,0.0,E,CENTRO,Zapopan,Tecnologico superior
+36,IZAPOPAN38,https://www.wunderground.com/dashboard/pws/IZAPOPAN38,"Zapopan, MX",19.555555555555557,0.0,33,9.654,19.308,0.0,ENE,CENTRO,Zapopan,Jardines del Valle
+38,IZAPOP45,https://www.wunderground.com/dashboard/pws/IZAPOP45,"Zapopan, MX",20.0,0.0,30,15.124600000000001,16.250899999999998,0.0,E,CENTRO,Zapopan,El Centinela 2
+39,IZAPOP46,https://www.wunderground.com/dashboard/pws/IZAPOP46,"Zapopan, MX",21.27777777777778,0.0,31,0.0,0.0,0.0,ESE,CENTRO,Zapopan,San Juan de Ocotan 2
+40,IZAPOT5,https://www.wunderground.com/dashboard/pws/IZAPOT5,"Zapotlanejo, MX",22.277777777777775,0.0,32,8.688600000000001,13.0329,0.0,ENE,CENTRO,Zapotlanejo,Matatlán
+41,IZAPOP59,https://www.wunderground.com/dashboard/pws/IZAPOP59,"Zapopan, MX",20.27777777777778,0.0,10,0.32180000000000003,1.7699,0.0,ESE,CENTRO,Zapopan,Arboledas
+42,IZAPOP56,https://www.wunderground.com/dashboard/pws/IZAPOP56,"Zapopan, MX",20.38888888888889,0.0,31,3.218,3.218,0.0,NE,CENTRO,San Pedro Tlaquepaque,Cerro del Tesoro
+44,IGUADA180,https://www.wunderground.com/dashboard/pws/IGUADA180,"Guadalajara, MX",23.277777777777782,0.0,29,1.4481,5.4706,0.0,SE,CENTRO,Guadalajara,Gigantes
+47,IZAPOP10,https://www.wunderground.com/dashboard/pws/IZAPOP10,"Zapopan, MX",19.333333333333332,0.0,38,6.436,20.917,0.0,ESE,CENTRO,Zapopan,UNIVA
+49,ITLAJO7,https://www.wunderground.com/dashboard/pws/ITLAJO7,"Tlajomulco de Zúñiga, MX",23.111111111111107,0.0,26,6.2751,7.8841,0.0,SSE,CENTRO,Tlajomulco de Zúñiga,Chulavista
+50,IJUANA20,https://www.wunderground.com/dashboard/pws/IJUANA20,"Juanacatlán, MX",22.055555555555557,0.0,30,6.436,14.481,0.0,E,CENTRO,Juanacatlán,Rio Santiago
+52,IATOTO2,https://www.wunderground.com/dashboard/pws/IATOTO2,"Atotonilco el Alto, MX",19.111111111111114,0.0,39,2.8962,3.5398,0.0,W,CIENEGA,Atotonilco el Alto,Nuestra Señora de los Altos
+54,ICABOC2,https://www.wunderground.com/dashboard/pws/ICABOC2,"Cabo Corrientes, MX",24.499999999999996,0.0,76,2.8962,3.5398,0.0,N,SIERRA COSTA-OCCIDEN,Cabo Corrientes,Playa Yelapa
+56,IPUERTOV6,https://www.wunderground.com/dashboard/pws/IPUERTOV6,"Puerto Vallarta Municipality, MX",26.722222222222218,0.0,67,3.218,14.481,0.0,SSW,SIERRA COSTA-OCCIDEN,Puerto Vallarta,Av. Francisco Medina Ascencio 
+59,ISANSE127,https://www.wunderground.com/dashboard/pws/ISANSE127,"San Sebastián del Oeste, MX",24.27777777777778,0.0,37,4.6661,5.4706,0.0,WSW,SIERRA COSTA-OCCIDEN,San Sebastián del Oeste,Presidencia Municipal
+60,ITALPA1,https://www.wunderground.com/dashboard/pws/ITALPA1,"Talpa de Allende, MX",24.388888888888893,0.0,35,6.436,9.654,0.0,W,SIERRA COSTA-OCCIDEN,Talpa de Allende,Base 09
+61,ITALPA3,https://www.wunderground.com/dashboard/pws/ITALPA3,"Talpa de Allende, MX",28.000000000000004,0.0,38,3.5398,5.4706,0.0,W,SIERRA COSTA-OCCIDEN,Talpa de Allende,Localidad La Cuesta
+62,IGUACH3,https://www.wunderground.com/dashboard/pws/IGUACH3,"Guachinango, MX",23.22222222222222,0.0,32,5.7924,13.1938,0.0,E,SIERRA COSTA-OCCIDEN,Guachinango,Campo de Futbol
+63,IMIXTL1,https://www.wunderground.com/dashboard/pws/IMIXTL1,"Mixtlán, MX",22.22222222222222,0.0,41,7.4014,14.8028,0.0,N,SIERRA COSTA-OCCIDEN,Mixtlán,Localidad Los Fresnos
+64,IATENG1,https://www.wunderground.com/dashboard/pws/IATENG1,"Atenguillo, MX",23.5,0.0,34,3.7007,8.5277,0.0,W,SIERRA COSTA-OCCIDEN,Atenguillo,Centro
+65,ICIHUA1,https://www.wunderground.com/dashboard/pws/ICIHUA1,"Cihuatlán, MX",28.444444444444443,0.0,67,6.436,14.481,0.0,S,COSTA SUR,Cihuatlán,Base 02
+68,ILAHUE7,https://www.wunderground.com/dashboard/pws/ILAHUE7,"La Huerta, MX",29.72222222222222,0.0,63,0.0,0.0,0.0,NNW,COSTA SUR,La Huerta,Casa las Glorias
+70,ILAHUE13,https://www.wunderground.com/dashboard/pws/ILAHUE13,"La Huerta, MX",,0.0,,7.2405,7.2405,0.0,E,COSTA SUR,La Huerta,Playa Punta Perula
+73,ISAYUL1,https://www.wunderground.com/dashboard/pws/ISAYUL1,"Sayula, MX",23.000000000000004,0.0,53,4.6661,7.2405,0.0,NE,LAGUNAS,Sayula,Campo Miravalles
+75,ITAPAL1,https://www.wunderground.com/dashboard/pws/ITAPAL1,"Tapalpa, MX",17.72222222222222,0.0,43,6.436,9.654,0.0,SW,LAGUNAS,Tapalpa,Valle de los Enigmas
+77,IATEMA1,https://www.wunderground.com/dashboard/pws/IATEMA1,"Atemajac de Brizuela, MX",18.388888888888886,0.0,44,5.7924,15.607299999999999,0.0,ESE,LAGUNAS,Atemajac de Brizuela,Calle Allende
+79,IATOYA3,https://www.wunderground.com/dashboard/pws/IATOYA3,"Atoyac, MX",22.61111111111111,0.0,41,6.918699999999999,13.837399999999999,0.0,W,LAGUNAS,Teocuitatlán de Corona,Localidad Tehuantepec
+80,ITAPAL10,https://www.wunderground.com/dashboard/pws/ITAPAL10,"Tapalpa, MX",19.111111111111114,0.0,44,1.9307999999999998,6.2751,0.0,WSW,LAGUNAS,Tapalpa,Los Frailes
+81,IAMACU2,https://www.wunderground.com/dashboard/pws/IAMACU2,"Amacueca, MX",26.11111111111111,0.0,35,2.7353,12.3893,0.0,W,LAGUNAS,Amacueca,Calle Vucente Guerrero
+82,IJUANA26,https://www.wunderground.com/dashboard/pws/IJUANA26,"Juanacatlán, MX",17.5,0.0,51,6.5969,14.6419,0.0,ESE,LAGUNAS,Tapalpa,Localidad de Juanacatlan
+83,IAMACU3,https://www.wunderground.com/dashboard/pws/IAMACU3,"Amacueca, MX",22.5,0.0,46,2.5744000000000002,7.5623000000000005,0.0,N,LAGUNAS,Amacueca,Localidad de Tepec
+86,IMEZQU2,https://www.wunderground.com/dashboard/pws/IMEZQU2,"Mezquitic, MX",18.833333333333336,0.0,15,9.654,5.309699999999999,0.0,NE,NORTE,Mezquitic,Localidad El Maguey
+87,IVILLA785,https://www.wunderground.com/dashboard/pws/IVILLA785,"Villa Guerrero Municipality, MX",18.555555555555557,0.0,15,14.481,25.744,0.0,ENE,NORTE,Villa Guerrero,Base 07
+88,IAUTLN1,https://www.wunderground.com/dashboard/pws/IAUTLN1,"Autlán de Navarro, MX",17.38888888888889,0.0,47,7.2405,7.2405,0.0,NNW,SIERRA DE AMULA,Autlán de Navarro,Cerro El Jalocote
+89,IELGRU1,https://www.wunderground.com/dashboard/pws/IELGRU1,"El Grullo, MX",24.166666666666668,0.0,51,8.045,11.263,0.0,S,SIERRA DE AMULA,El Grullo,Base 06
+91,ICIUDA140,https://www.wunderground.com/dashboard/pws/ICIUDA140,"Ciudad Penesín, MX",22.055555555555557,0.0,53,6.436,8.045,0.0,N,SUR,Zapotlán el Grande,Base 01
+92,IJALISCO60,https://www.wunderground.com/dashboard/pws/IJALISCO60,Ciudad Guzman,22.11111111111111,0.0,53,4.3443000000000005,7.5623000000000005,0.0,N,SUR,Zapotlán el Grande,Ciudad Guzman
+96,ITUXPA4,https://www.wunderground.com/dashboard/pws/ITUXPA4,"Tuxpan, MX",5.333333333333334,0.0,28,8.045,24.134999999999998,0.0,S,SUR,Tuxpan,Nevado de Colima
+97,ICHAPA18,https://www.wunderground.com/dashboard/pws/ICHAPA18,"Chapala, MX",23.111111111111107,0.0,34,6.114199999999999,7.2405,0.0,NNW,SURESTE,Chapala,Gardenias
+98,ICHAPA21,https://www.wunderground.com/dashboard/pws/ICHAPA21,"Chapala, MX",22.22222222222222,,36,14.481,14.481,0.0,NNW,SURESTE,Chapala,Fracc. Chapala Haciendas
+99,IJALISCO38,https://www.wunderground.com/dashboard/pws/IJALISCO38,"Ajijic, MX",22.11111111111111,0.0,41,3.218,11.263,0.0,S,SURESTE,Chapala,Calle Fco. Villa
+101,IMAZAM15,https://www.wunderground.com/dashboard/pws/IMAZAM15,"Mazamitla, MX",17.27777777777778,0.0,56,2.5744000000000002,3.5398,0.0,SSW,SURESTE,Mazamitla,UMPC
+102,ILAMAN50,https://www.wunderground.com/dashboard/pws/ILAMAN50,"La Manzanilla de la Paz, MX",19.27777777777778,0.0,47,8.2059,15.285499999999999,0.0,E,SURESTE,La Manzanilla de la Paz,Calle Morelos
+103,IQUITU1,https://www.wunderground.com/dashboard/pws/IQUITU1,"Quitupan, MX",23.22222222222222,0.0,38,4.3443000000000005,9.3322,0.0,NNW,SURESTE,Quitupan,Calle Independencia
+104,IVALLE329,https://www.wunderground.com/dashboard/pws/IVALLE329,"Valle de Juárez, MX",23.88888888888889,0.0,36,2.0917,6.918699999999999,0.0,SSE,SURESTE,Valle de Juárez,Calle Libertad
+105,IAMECA1,https://www.wunderground.com/dashboard/pws/IAMECA1,"Ameca, MX",23.055555555555557,0.0,26,6.436,22.526,0.0,SE,VALLES,Ameca,UMPC
+106,ITEQUI3,https://www.wunderground.com/dashboard/pws/ITEQUI3,"Tequila, MX",23.5,0.0,20,4.6661,9.3322,0.0,ESE,VALLES,Tequila,UMPC
+107,ITALA5,https://www.wunderground.com/dashboard/pws/ITALA5,"Tala, MX",24.388888888888893,0.0,26,6.5969,14.8028,0.0,E,VALLES,Tala,Localidad Ahuisculco
+108,ITALA4,https://www.wunderground.com/dashboard/pws/ITALA4,"Tala, MX",25.38888888888889,0.0,24,4.1834,11.4239,0.0,WNW,VALLES,Tala,Calle Mezquite
+109,IELARE6,https://www.wunderground.com/dashboard/pws/IELARE6,"El Arenal, MX",24.111111111111114,0.0,22,4.505199999999999,12.5502,0.0,NNW,VALLES,El Arenal,localidad El Roble
+112,IIXTLN1,https://www.wunderground.com/dashboard/pws/IIXTLN1,"Ixtlán del Río, MX",24.222222222222218,0.0,19,19.7907,25.5831,0.0,ESE,,,
+114,ILEN82,https://www.wunderground.com/dashboard/pws/ILEN82,"León, MX",16.72222222222222,0.0,48,7.2405,9.3322,0.0,SSE,,,
+115,INOCHI2,https://www.wunderground.com/dashboard/pws/INOCHI2,"Nochistlán de Mejía, MX",18.88888888888889,0.0,23,8.688600000000001,9.654,0.0,N,,,
+119,ISANFR63,https://www.wunderground.com/dashboard/pws/ISANFR63,"San Francisco del Rincón, MX",21.77777777777778,0.0,39,11.263,12.872,0.0,SSW,,,
+120,ISCHIL40,https://www.wunderground.com/dashboard/pws/ISCHIL40,"Súchil, MX",16.5,0.0,15,11.263,20.917,0.0,NW,,,
+121,IURUAP1,https://www.wunderground.com/dashboard/pws/IURUAP1,"Uruapan, MX",21.27777777777778,0.0,54,9.9758,10.7803,0.0,SSE,,,
+122,IYURCU1,https://www.wunderground.com/dashboard/pws/IYURCU1,"Yurécuaro, MX",22.722222222222225,0.0,41,7.2405,9.3322,0.0,SE,,,
+123,IVILLA1678,https://www.wunderground.com/dashboard/pws/IVILLA1678,"Villa Hidalgo, MX",21.77777777777778,0.0,29,0.0,0.0,0.0,ENE,ALTOS NORTE,Villa Hidalgo,Los Garcia
+124,IPORTE154,https://www.wunderground.com/dashboard/pws/IPORTE154,"Portezuelo, MX",23.5,0.0,32,4.6661,11.906600000000001,0.0,ESE,CIENEGA,La Barca,Portezuelo
+125,IPONCI3,https://www.wunderground.com/dashboard/pws/IPONCI3,"Poncitlán, MX",22.22222222222222,0.0,27,4.0225,9.654,0.0,NNE,CIENEGA,Poncitlán,Calle Zaragoza
+126,ISANAN110,https://www.wunderground.com/dashboard/pws/ISANAN110,"San Antonio Tlayacapan, MX",23.61111111111111,0.0,30,5.4706,7.2405,0.0,SW,SURESTE,Chapala,San Antonio Tlayacapan
+127,ISANAN119,https://www.wunderground.com/dashboard/pws/ISANAN119,"San Antonio Tlayacapan, MX",24.499999999999996,0.0,33,1.4481,2.5744000000000002,0.0,WSW,SURESTE,Chapala,San Antonio Tlayacapan
+128,IZAPOT7,https://www.wunderground.com/dashboard/pws/IZAPOT7,"Zapotitán de Hidalgo, MX",23.000000000000004,0.0,28,7.5623000000000005,17.8599,0.0,ENE,SURESTE,Jocotepec,Zapotitán de Hidalgo
+129,ISANLU93,https://www.wunderground.com/dashboard/pws/ISANLU93,"San Luis Soyatlán, MX",21.27777777777778,0.0,40,9.3322,19.6298,0.0,NE,SURESTE,Chapala,San Luis Soyatlán
+130,ITLAJO9,https://www.wunderground.com/dashboard/pws/ITLAJO9,"Tlajomulco de Zúñiga, MX",19.72222222222222,0.0,35,7.2405,9.3322,0.0,NE,CENTRO,Tlajomulco de Zúñiga,Santa Anita
+131,IPUERT188,https://www.wunderground.com/dashboard/pws/IPUERT188,"Puerto Vallarta, MX",24.111111111111114,0.0,76,2.8962,5.4706,0.0,NNW,SIERRA COSTA-OCCIDEN,Puerto Vallarta,Playa los muertos
+132,ILAHUE18,https://www.wunderground.com/dashboard/pws/ILAHUE18,"La Huerta, MX",24.72222222222222,0.0,72,1.4481,1.7699,0.0,ESE,COSTA SUR,La Huerta,La Manzanilla
+133,IVILLA1661,https://www.wunderground.com/dashboard/pws/IVILLA1661,"Villa Corona, MX",21.999999999999996,0.0,28,10.619399999999999,20.7561,0.0,NNE,LAGUNAS,Villa Corona,Parque Acuatico
+134,ISAYUL2,https://www.wunderground.com/dashboard/pws/ISAYUL2,"Sayula, MX",25.11111111111111,0.0,37,3.0570999999999997,9.010399999999999,0.0,SE,LAGUNAS,Sayula,Carretera V. Carranza
+135,IAJIJI6,https://www.wunderground.com/dashboard/pws/IAJIJI6,"Ajijic, MX",22.5,0.0,38,6.436,15.446399999999999,0.0,SE,SURESTE,Chapala,Ajijic
+136,IZAPOP64,https://www.wunderground.com/dashboard/pws/IZAPOP64,"Zapopan, MX",21.27777777777778,0.0,28,7.0796,17.8599,0.0,E,CENTRO,Zapopan,Cueva del Lince
+137,ICAMPE49,https://www.wunderground.com/dashboard/pws/ICAMPE49,"Campestre las Palomas, MX",20.38888888888889,0.0,27,16.09,22.526,0.0,E,CENTRO,Zapopan,Los Molinos
+138,IZAPOP62,https://www.wunderground.com/dashboard/pws/IZAPOP62,"Zapopan, MX",20.27777777777778,0.0,22,14.481,25.744,0.0,NE,CENTRO,Zapopan,Villas de Guadalupe
+139,IZAPOP61,https://www.wunderground.com/dashboard/pws/IZAPOP61,"Zapopan, MX",21.0,0.0,29,6.114199999999999,13.0329,0.0,ENE,CENTRO,Zapopan,Real de valdepeñas
+140,IZAPOP53,https://www.wunderground.com/dashboard/pws/IZAPOP53,"Zapopan, MX",21.27777777777778,0.0,28,8.5277,8.5277,0.0,NNE,CENTRO,Zapopan,Lomas de Zapopan
+141,IZAPOP60,https://www.wunderground.com/dashboard/pws/IZAPOP60,"Zapopan, MX",19.055555555555557,0.0,35,12.872,24.134999999999998,0.0,WNW,CENTRO,Zapopan,San Juan de Ocotan
+142,IPALOM24,https://www.wunderground.com/dashboard/pws/IPALOM24,"Palomar, MX",22.22222222222222,0.0,31,5.7924,13.998299999999999,0.0,E,CENTRO,Tlajomulco de Zúñiga,Palomar
+143,IZAPOP66,https://www.wunderground.com/dashboard/pws/IZAPOP66,"Zapopan, MX",18.388888888888886,0.0,35,6.918699999999999,13.837399999999999,0.0,NE,CENTRO,Zapopan,Los Robles
+144,IZAPOP11,https://www.wunderground.com/dashboard/pws/IZAPOP11,"Zapopan, MX",19.333333333333332,0.0,40,6.436,24.134999999999998,0.0,ENE,CENTRO,Zapopan,Plaza del sol

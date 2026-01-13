@@ -1,0 +1,124 @@
+,estacion,link,localidad,temp_C,razon_lluvia,HR,vel_viento,racha_viento,acum_calc,letra_dir,REGIÓN_2,MPO_2,REF,INSTITUCION
+1,IAJIJI6,https://www.wunderground.com/dashboard/pws/IAJIJI6,Ajijic,19.9,,89.0,1.8,4.3,0.0,NW,SURESTE,Chapala,Ajijic,priv
+2,IAMACU2,https://www.wunderground.com/dashboard/pws/IAMACU2,Amacueca,19.1,0.74,97.0,1.6,4.5,81.94,NW,LAGUNAS,Amacueca,Amacueca,SEMADET
+3,IAMACU3,https://www.wunderground.com/dashboard/pws/IAMACU3,Amacueca,18.4,0.3,99.0,3.1,4.8,37.27,N,LAGUNAS,Amacueca,Localidad de Tepec,SEMADET
+4,IAMECA1,https://www.wunderground.com/dashboard/pws/IAMECA1,Ameca,22.9,0.0,78.0,8.0,22.5,0.0,ENE,VALLES,Ameca,UMPC,UEPCB
+5,IARAND35,https://www.wunderground.com/dashboard/pws/IARAND35,Arandas,17.8,0.0,82.0,0.0,0.0,0.0,SE,ALTOS SUR,Arandas,Santa Maria del Nopal,GEOSMET
+6,IARAND7,https://www.wunderground.com/dashboard/pws/IARAND7,Arandas,17.2,0.0,80.0,4.0,11.2,0.0,NE,ALTOS SUR,Arandas,Centro,GEOSMET
+7,IATEMA1,https://www.wunderground.com/dashboard/pws/IATEMA1,Atemajac de Brizuela,15.0,0.03,92.0,9.2,13.2,0.71,S,LAGUNAS,Atemajac de Brizuela,Atemajac,SEMADET
+8,IATENG1,https://www.wunderground.com/dashboard/pws/IATENG1,Atenguillo,21.0,0.0,90.0,4.2,6.4,0.97,SW,SIERRA COSTA-OCCIDEN,Atenguillo,Centro,SEMADET
+9,IATENG2,https://www.wunderground.com/dashboard/pws/IATENG2,Atengo,20.4,0.0,89.0,0.0,0.0,0.0,E,SIERRA DE AMULA,Atengo,Atengo,SEMADET
+10,IATOTO2,https://www.wunderground.com/dashboard/pws/IATOTO2,Atotonilco el Alto,18.1,0.0,84.0,0.0,0.0,0.0,SSE,CIENEGA,Atotonilco el Alto,San Francisco de Asís,GEOSMET
+12,IAUTLN1,https://www.wunderground.com/dashboard/pws/IAUTLN1,Autlán de Navarro,14.0,0.0,99.0,15.1,16.6,6.6000000000000005,NNW,SIERRA DE AMULA,Autlán de Navarro,Cerro El Jalocote,UEPCB
+13,IAUTLN2,https://www.wunderground.com/dashboard/pws/IAUTLN2,Autlán de Navarro,22.9,0.0,85.0,6.4,12.9,0.0,NW,SIERRA DE AMULA,Autlán de Navarro,UMPC,UMPC AUTLÁN
+14,IAUTLN3,https://www.wunderground.com/dashboard/pws/IAUTLN3,Autlán de Navarro,23.1,0.0,86.0,0.6,3.4,0.9599999999999996,N,SIERRA DE AMULA,Autlán de Navarro,Valle del Vergel,SEMADET
+15,IAUTLN4,https://www.wunderground.com/dashboard/pws/IAUTLN4,Autlán de Navarro,21.6,0.0,95.0,0.0,0.0,0.0,NW,SIERRA DE AMULA,Autlán de Navarro,Yerbabuena,SEMADET
+16,IAUTLN5,https://www.wunderground.com/dashboard/pws/IAUTLN5,Autlán de Navarro,22.3,0.0,88.0,0.5,3.2,1.3300000000000003,SW,SIERRA DE AMULA,Autlán de Navarro,El Mentidero,SEMADET
+18,ICABOC2,https://www.wunderground.com/dashboard/pws/ICABOC2,Cabo Corrientes,24.8,0.0,98.0,0.0,0.0,4.88,NNE,SIERRA COSTA-OCCIDEN,Cabo Corrientes,Playa Yelapa,priv
+20,ICABOC4,https://www.wunderground.com/dashboard/pws/ICABOC4,Cabo Corrientes,25.2,0.05,94.0,1.0,5.1,19.38,NNE,SIERRA COSTA-OCCIDEN,Cabo Corrientes,Ipala,SEMADET
+21,ICABOC5,https://www.wunderground.com/dashboard/pws/ICABOC5,Cabo Corrientes,22.9,0.0,90.0,2.4,9.2,2.87,NE,SIERRA COSTA-OCCIDEN,Cabo Corrientes,El Refugio Suchitlán,SEMADET
+23,ICAMPE49,https://www.wunderground.com/dashboard/pws/ICAMPE49,Campestre las Palomas,21.2,0.0,79.0,1.6,11.3,4.06,S,CENTRO,Zapopan,Los Molinos,priv
+24,ICHAPA18,https://www.wunderground.com/dashboard/pws/ICHAPA18,Chapala,20.7,0.0,90.0,9.7,11.1,11.2,WSW,SURESTE,Chapala,Chapala,priv
+25,ICHAPA21,https://www.wunderground.com/dashboard/pws/ICHAPA21,Chapala,19.4,,99.0,0.0,6.4,2.79,SSW,SURESTE,Chapala,Fracc. Chapala Haciendas,priv
+26,ICHAPALA2,https://www.wunderground.com/dashboard/pws/ICHAPALA2,Brisas de Chapala,18.5,,99.0,0.0,0.0,0.0,NNE,CENTRO,Ixtlahuacán de los Membrillos,Brisas de Chapala,priv
+28,ICIHUA1,https://www.wunderground.com/dashboard/pws/ICIHUA1,Cihuatlán,27.6,,94.0,0.0,3.2,0.0,NNW,COSTA SUR,Cihuatlán,Base 02,UEPCB
+29,ICIHUA4,https://www.wunderground.com/dashboard/pws/ICIHUA4,Cihuatlán,26.0,,90.0,1.1,4.5,0.0,NW,COSTA SUR,Cihuatlán,UMPC,SEMADET
+30,ICIUDA140,https://www.wunderground.com/dashboard/pws/ICIUDA140,Ciudad Penesín,21.0,0.0,77.0,1.6,14.5,0.0,N,SUR,Zapotlán el Grande,Base 01,UEPCB
+33,IELARE6,https://www.wunderground.com/dashboard/pws/IELARE6,El Arenal,20.9,0.0,85.0,0.8,3.7,0.0,SE,VALLES,El Arenal,localidad El Roble,SEMADET
+34,IELGRU1,https://www.wunderground.com/dashboard/pws/IELGRU1,El Grullo,22.9,0.0,91.0,4.8,8.0,1.78,S,SIERRA DE AMULA,El Grullo,Base 06,UEPCB
+35,IELLIM11,https://www.wunderground.com/dashboard/pws/IELLIM11,El Limón,22.8,0.0,90.0,0.0,0.0,0.0,NNW,SIERRA DE AMULA,El Limón,El Limon,SEMADET
+37,IENCAR2,https://www.wunderground.com/dashboard/pws/IENCAR2,Encarnación de Díaz,16.1,0.0,85.0,0.0,0.0,0.0,E,ALTOS NORTE,Encarnación de Díaz,El codo,priv
+38,IGUACH3,https://www.wunderground.com/dashboard/pws/IGUACH3,Guachinango,21.0,0.0,86.0,0.5,2.9,0.0,W,SIERRA COSTA-OCCIDEN,Guachinango,Guachinango,SEMADET
+39,IGUADA112,https://www.wunderground.com/dashboard/pws/IGUADA112,Guadalajara,21.5,0.0,75.0,1.6,8.0,0.0,SSW,CENTRO,Guadalajara,Base Central,UEPCB
+40,IGUADA147,https://www.wunderground.com/dashboard/pws/IGUADA147,Guadalajara,21.0,,86.0,2.7,,0.0,SW,CENTRO,Guadalajara,Lopez de Legaspi,priv
+41,IGUADALA32,https://www.wunderground.com/dashboard/pws/IGUADALA32,Providencia,21.3,0.0,79.0,3.2,6.4,0.25,S,CENTRO,Guadalajara,Country Club,priv
+42,IHOSTO25,https://www.wunderground.com/dashboard/pws/IHOSTO25,Hostotipaquillo,22.1,0.0,84.0,1.4,1.8,0.0,NNW,VALLES,Hostotipaquillo,Hostotipaquillo,SEMADET
+44,IJALISCO38,https://www.wunderground.com/dashboard/pws/IJALISCO38,Rancho Del Oro,19.3,0.0,91.0,0.0,3.2,3.3,NNW,SURESTE,Chapala,Calle Fco. Villa,priv
+45,IJALISCO60,https://www.wunderground.com/dashboard/pws/IJALISCO60,MeteoCiudadGuzman,20.2,0.0,87.0,6.4,10.5,50.4,SSE,SUR,Zapotlán el Grande,Ciudad Guzman,priv
+46,IJUANA20,https://www.wunderground.com/dashboard/pws/IJUANA20,Juanacatlán,19.3,0.25,90.0,1.6,3.2,16.0,NNE,CENTRO,Juanacatlán,Rio Santiago,priv
+47,IJUANA26,https://www.wunderground.com/dashboard/pws/IJUANA26,Juanacatlán,13.3,1.68,99.0,7.4,9.8,18.990000000000002,SW,LAGUNAS,Tapalpa,Localidad de Juanacatlan,SEMADET
+49,ILAGOS33,https://www.wunderground.com/dashboard/pws/ILAGOS33,Lagos de Moreno,18.1,0.0,75.0,3.5,3.5,0.0,NNW,ALTOS NORTE,Lagos de Moreno,Aeropuerto,priv
+50,ILAGOS80,https://www.wunderground.com/dashboard/pws/ILAGOS80,Lagos de Moreno,17.9,0.0,72.0,2.7,2.7,0.0,NW,ALTOS NORTE,Lagos de Moreno,CULAGOS,priv
+52,ILAHUE18,https://www.wunderground.com/dashboard/pws/ILAHUE18,La Huerta,25.0,0.0,96.0,0.0,5.4,51.1,NW,COSTA SUR,La Huerta,La Manzanilla,priv
+53,ILAHUE19,https://www.wunderground.com/dashboard/pws/ILAHUE19,La Huerta,23.4,0.0,93.0,1.3,3.9,34.84,N,COSTA SUR,La Huerta,La huerta,SEMADET
+56,ILAMAN50,https://www.wunderground.com/dashboard/pws/ILAMAN50,La Manzanilla de la Paz,15.8,0.71,96.0,6.9,15.6,1.45,WSW,SURESTE,La Manzanilla de la Paz,Calle Morelos,SEMADET
+57,ILARES47,https://www.wunderground.com/dashboard/pws/ILARES47,La Resolana,23.1,0.0,95.0,1.9,4.2,119.13,SW,COSTA SUR,Casimiro Castillo,La Resolana,SEMADET
+60,ILOSGA1,https://www.wunderground.com/dashboard/pws/ILOSGA1,Los Gavilanes,18.3,0.0,95.0,0.0,0.0,6.91,WNW,CENTRO,Tlajomulco de Zúñiga,La Rioja,priv
+61,IMASCO29,https://www.wunderground.com/dashboard/pws/IMASCO29,Mascota,24.2,0.03,94.0,0.8,3.7,21.0,NE,SIERRA COSTA-OCCIDEN,Mascota,La Palapa,SEMADET
+62,IMAZAM15,https://www.wunderground.com/dashboard/pws/IMAZAM15,Mazamitla,14.4,0.0,99.0,2.9,3.6,2.31,SE,SURESTE,Mazamitla,UMPC,UEPCB
+65,IMAZAM21,https://www.wunderground.com/dashboard/pws/IMAZAM21,Mazamitla,15.0,0.0,100.0,6.0,13.0,2.05,SSE,SURESTE,Mazamitla,Preparatoria regional de Mazamitla,SEMADET
+66,IMAZAM22,https://www.wunderground.com/dashboard/pws/IMAZAM22,Mazamitla,15.5,0.0,100.0,0.5,4.0,2.12,ESE,SURESTE,Mazamitla,Los Cazos,SEMADET
+67,IMEZQU2,https://www.wunderground.com/dashboard/pws/IMEZQU2,Mezquitic,21.6,0.0,58.0,4.8,27.4,0.0,E,NORTE,Mezquitic,Localidad El Maguey,priv
+69,INEXTI1,https://www.wunderground.com/dashboard/pws/INEXTI1,Nextipac,21.4,0.0,83.0,0.0,3.2,0.51,N,CENTRO,Zapopan,Nextipac,UMPC ZAPOPAN
+71,IPALOM24,https://www.wunderground.com/dashboard/pws/IPALOM24,Palomar,18.8,0.0,79.0,0.0,1.0,0.0,SW,CENTRO,Tlajomulco de Zúñiga,Palomar,SEMADET
+72,IPONCI1,https://www.wunderground.com/dashboard/pws/IPONCI1,Poncitlán,20.9,0.0,82.0,6.4,11.3,0.0,SSE,CIENEGA,Poncitlán,Base 03,UEPCB
+73,IPONCI3,https://www.wunderground.com/dashboard/pws/IPONCI3,Poncitlán,21.2,0.18,83.0,2.6,6.9,0.29,SSW,CIENEGA,Poncitlán,UMPC,SEMADET
+74,IPORTE154,https://www.wunderground.com/dashboard/pws/IPORTE154,Portezuelo,20.9,0.0,79.0,2.3,5.0,0.0,W,CIENEGA,La Barca,Portezuelo,SEMADET
+75,IPUERT143,https://www.wunderground.com/dashboard/pws/IPUERT143,Puerto Vallarta,25.7,0.51,96.0,3.2,9.7,3.0500000000000003,NE,SIERRA COSTA-OCCIDEN,Puerto Vallarta,Calle de las Aguilas,UEPCB
+76,IPUERT188,https://www.wunderground.com/dashboard/pws/IPUERT188,Puerto Vallarta,25.3,0.0,96.0,0.0,0.0,7.11,SSE,SIERRA COSTA-OCCIDEN,Puerto Vallarta,Playa los muertos,priv
+77,IPUERTOV6,https://www.wunderground.com/dashboard/pws/IPUERTOV6," Puerto Vallarta, Versalles",26.9,0.0,89.0,0.0,1.6,4.82,SSE,SIERRA COSTA-OCCIDEN,Puerto Vallarta,Zona Hotelera,priv
+78,IQUITU1,https://www.wunderground.com/dashboard/pws/IQUITU1,Quitupan,18.4,3.48,95.0,1.8,4.0,9.32,SSW,SURESTE,Quitupan,Calle Independencia,SEMADET
+79,ISANAN110,https://www.wunderground.com/dashboard/pws/ISANAN110,San Antonio Tlayacapan,20.4,0.0,91.0,3.2,4.7,7.87,WSW,SURESTE,Chapala,San Antonio Tlayacapan,priv
+80,ISANAN119,https://www.wunderground.com/dashboard/pws/ISANAN119,San Antonio Tlayacapan,19.7,0.0,92.0,3.1,3.9,0.0,W,SURESTE,Chapala,San Antonio Tlayacapan,priv
+82,ISANGA18,https://www.wunderground.com/dashboard/pws/ISANGA18,San Gabriel,19.3,0.0,93.0,1.6,3.2,0.0,NW,SUR,San Gabriel,Camino a la Sauceda,UEPCB
+84,ISANJU139,https://www.wunderground.com/dashboard/pws/ISANJU139,San Juan de los Lagos,19.8,0.0,72.0,1.6,6.4,0.0,E,ALTOS NORTE,San Juan de los Lagos,Base 08,UEPCB
+85,ISANJU342,https://www.wunderground.com/dashboard/pws/ISANJU342,San Juanito de Escobedo,21.8,0.0,84.0,11.2,13.0,0.0,SSE,VALLES,San Juanito de Escobedo,San Juanito de Escobedo,SEMADET
+86,ISANLU93,https://www.wunderground.com/dashboard/pws/ISANLU93,San Luis Soyatlán,19.6,7.77,90.0,3.5,8.5,16.68,SSE,SURESTE,Tuxcueca,San Luis Soyatlán,SEMADET
+87,ISANSE127,https://www.wunderground.com/dashboard/pws/ISANSE127,San Sebastián del Oeste,20.8,0.0,99.0,7.9,11.2,0.0,NE,SIERRA COSTA-OCCIDEN,San Sebastián del Oeste,Presidencia Municipal,UEPCB
+90,ISAYUL2,https://www.wunderground.com/dashboard/pws/ISAYUL2,Sayula,20.3,0.0,96.0,1.8,4.3,29.94,NNE,LAGUNAS,Sayula,Carretera V. Carranza,SEMADET
+93,ITALA5,https://www.wunderground.com/dashboard/pws/ITALA5,Tala,20.3,5.49,92.0,7.9,15.3,5.9,SSW,VALLES,Tala,Localidad Ahuisculco,SEMADET
+96,ITALPA3,https://www.wunderground.com/dashboard/pws/ITALPA3,Talpa de Allende,22.4,0.0,99.0,0.0,0.0,9.4,W,SIERRA COSTA-OCCIDEN,Talpa de Allende,La Cuesta,priv
+97,ITALPA4,https://www.wunderground.com/dashboard/pws/ITALPA4,Talpa de Allende,20.1,6.27,93.0,1.8,3.2,7.65,SW,SIERRA COSTA-OCCIDEN,Talpa de Allende,La Alameda,SEMADET
+103,ITAPAL6,https://www.wunderground.com/dashboard/pws/ITAPAL6,Tapalpa,18.8,0.0,91.0,3.2,6.4,3.05,ESE,LAGUNAS,Tapalpa,El Calabozo,UEPCB
+104,ITAPAL9,https://www.wunderground.com/dashboard/pws/ITAPAL9,Tapalpa,14.9,0.0,99.0,2.7,5.5,7.19,NNW,LAGUNAS,Tapalpa,Localidad San Martin,priv
+105,ITAPALPA4,https://www.wunderground.com/dashboard/pws/ITAPALPA4,Rancho Viejo,17.5,0.0,99.0,0.0,0.0,0.0,W,LAGUNAS,Tapalpa,Loma Bonita,priv
+106,ITECOL7,https://www.wunderground.com/dashboard/pws/ITECOL7,Tecolotlán,16.2,13.06,97.0,1.1,8.4,13.05,NE,SIERRA DE AMULA,Tecolotlán,Sierra de Quila,SEMADET
+107,ITENAM7,https://www.wunderground.com/dashboard/pws/ITENAM7,Tenamaxtlán,20.6,0.94,86.0,4.8,9.3,1.44,E,SIERRA DE AMULA,Tenamaxtlán,Tenamaxtlán,SEMADET
+108,ITEOCA2,https://www.wunderground.com/dashboard/pws/ITEOCA2,Teocaltiche,17.8,0.0,77.0,6.9,7.2,0.0,ENE,ALTOS NORTE,Teocaltiche,San Bernardo,priv
+109,ITEPAT5,https://www.wunderground.com/dashboard/pws/ITEPAT5,Tepatitlán de Morelos Municipality,17.7,0.0,85.0,5.4,7.2,0.0,E,ALTOS SUR,Tepatitlán de Morelos,Rancho Gomez Franco,GEOSMET
+110,ITEQUI3,https://www.wunderground.com/dashboard/pws/ITEQUI3,Tequila,23.7,0.0,76.0,0.0,0.0,0.0,WSW,VALLES,Tequila,UMPC,UEPCB
+111,ITESISTN2,https://www.wunderground.com/dashboard/pws/ITESISTN2,Cruz Verde Santa Lucia,20.9,0.0,78.0,0.0,4.8,1.78,NE,CENTRO,Zapopan,Tesistan,UMPC ZAPOPAN
+112,ITLAJO3,https://www.wunderground.com/dashboard/pws/ITLAJO3,Tlajomulco de Zúñiga,19.7,0.0,92.0,0.0,1.6,0.0,,CENTRO,Tlajomulco de Zúñiga,UTZMG,UEPCB
+113,ITLAJO7,https://www.wunderground.com/dashboard/pws/ITLAJO7,Tlajomulco de Zúñiga,18.9,0.0,99.0,0.0,0.0,4.83,SSW,CENTRO,Tlajomulco de Zúñiga,Chulavista,priv
+114,ITLAJO9,https://www.wunderground.com/dashboard/pws/ITLAJO9,Tlajomulco de Zúñiga,19.0,0.0,87.0,2.5,3.6,3.99,W,CENTRO,Tlajomulco de Zúñiga,Santa Anita,priv
+116,ITOLIM2,https://www.wunderground.com/dashboard/pws/ITOLIM2,Tolimán,20.6,0.0,96.0,0.0,0.0,0.0,ENE,SIERRA DE AMULA,Tolimán,El Rodeo,SEMADET
+117,ITOMAT1,https://www.wunderground.com/dashboard/pws/ITOMAT1,Tomatlán,25.4,0.0,95.0,0.7,3.6,6.399999999999999,ESE,COSTA SUR,Tomatlán,UMPC,UEPCB
+120,ITONAY1,https://www.wunderground.com/dashboard/pws/ITONAY1,Tonaya,20.9,0.0,95.0,0.5,2.4,0.19,NE,SIERRA DE AMULA,Tonaya,Los Asmoles,SEMADET
+121,ITONIL1,https://www.wunderground.com/dashboard/pws/ITONIL1,Tonila,19.1,0.25,97.0,1.6,3.2,0.25,WNW,SUR,Tonila,Barranca La Arena,UEPCB
+122,ITOTOT1,https://www.wunderground.com/dashboard/pws/ITOTOT1,Tototlán,20.5,0.0,84.0,0.0,0.0,0.0,E,CIENEGA,Tototlán,UMPC,SEMADET
+123,ITUXCA1,https://www.wunderground.com/dashboard/pws/ITUXCA1,Tuxcacuesco,21.6,0.0,95.0,0.0,0.0,0.0,E,SIERRA DE AMULA,Tuxcacuesco,La Cañita,SEMADET
+124,ITUXPA4,https://www.wunderground.com/dashboard/pws/ITUXPA4,Tuxpan,5.9,0.76,99.0,29.0,40.2,5.339999999999999,N,SUR,Tuxpan,Nevado de Colima,UEPCB
+126,ITUXPA8,https://www.wunderground.com/dashboard/pws/ITUXPA8,Tuxpan,8.8,0.0,99.0,0.0,0.0,8.379999999999999,SSE,SUR,Tuxpan,Nevado de Colima,SEMADET
+127,IUNIND12,https://www.wunderground.com/dashboard/pws/IUNIND12,Unión de Tula,20.4,0.0,89.0,3.6,5.4,1.3,SE,SIERRA DE AMULA,Unión de Tula,Unión de Tula,SEMADET
+129,IVALLE329,https://www.wunderground.com/dashboard/pws/IVALLE329,Valle de Juárez,16.9,,97.0,1.4,5.6,0.0,SW,SURESTE,Valle de Juárez,Calle Libertad,SEMADET
+130,IVILLA1661,https://www.wunderground.com/dashboard/pws/IVILLA1661,Villa Corona,19.8,2.13,92.0,2.4,3.5,6.91,S,LAGUNAS,Villa Corona,Laguna Atotonilco,SEMADET
+131,IVILLA1678,https://www.wunderground.com/dashboard/pws/IVILLA1678,Villa Hidalgo,17.0,0.0,85.0,0.0,0.0,0.25,ESE,ALTOS NORTE,Villa Hidalgo,Los Garcia,priv
+132,IVILLA1790,https://www.wunderground.com/dashboard/pws/IVILLA1790,Purificacion,23.0,0.0,95.0,2.7,4.5,108.85,WSW,COSTA SUR,Villa Purificación,UMPC,SEMADET
+135,IZAPOP1,https://www.wunderground.com/dashboard/pws/IZAPOP1,Zapopan,,,91.0,0.0,0.0,0.0,W,CENTRO,Zapopan,Loma Bonita,priv
+136,IZAPOP10,https://www.wunderground.com/dashboard/pws/IZAPOP10,Zapopan,21.1,,78.0,1.6,6.4,0.0,SW,CENTRO,Zapopan,UNIVA,UMPC ZAPOPAN
+137,IZAPOP11,https://www.wunderground.com/dashboard/pws/IZAPOP11,Zapopan,21.1,0.0,78.0,6.4,12.9,0.0,WSW,CENTRO,Zapopan,Plaza del sol,UMPC ZAPOPAN
+138,IZAPOP17,https://www.wunderground.com/dashboard/pws/IZAPOP17,Zapopan,20.9,0.0,85.0,4.7,5.4,1.02,WNW,CENTRO,Zapopan,Puerta del Bosque,priv
+139,IZAPOP30,https://www.wunderground.com/dashboard/pws/IZAPOP30,Zapopan,,0.0,74.0,1.6,3.2,0.25,NW,CENTRO,Zapopan,Tianguis del Sol,priv
+141,IZAPOP36,https://www.wunderground.com/dashboard/pws/IZAPOP36,Zapopan,21.2,0.0,76.0,4.8,11.3,0.0,SW,CENTRO,Zapopan,UMPC,UMPC ZAPOPAN
+142,IZAPOP4,https://www.wunderground.com/dashboard/pws/IZAPOP4,Zapopan,19.9,0.0,82.0,3.2,8.0,0.0,WNW,CENTRO,Zapopan,Miramar,UMPC ZAPOPAN
+143,IZAPOP46,https://www.wunderground.com/dashboard/pws/IZAPOP46,Zapopan,23.4,,72.0,0.0,0.0,0.0,ESE,CENTRO,Zapopan,San Juan de Ocotan 2,priv
+144,IZAPOP5,https://www.wunderground.com/dashboard/pws/IZAPOP5,Zapopan,21.2,0.0,82.0,4.8,11.3,1.78,SE,CENTRO,Zapopan,Lomas de Montechelo,UMPC ZAPOPAN
+145,IZAPOP53,https://www.wunderground.com/dashboard/pws/IZAPOP53,Zapopan,21.1,0.0,82.0,0.0,0.0,0.0,SSE,CENTRO,Zapopan,Lomas de Zapopan,priv
+146,IZAPOP56,https://www.wunderground.com/dashboard/pws/IZAPOP56,Zapopan,21.4,0.0,78.0,0.0,0.0,0.0,WNW,CENTRO,San Pedro Tlaquepaque,Cerro del Tesoro,priv
+147,IZAPOP58,https://www.wunderground.com/dashboard/pws/IZAPOP58,Zapopan,21.1,0.0,81.0,5.0,5.0,0.0,S,CENTRO,Zapopan,El Centinela 3,priv
+148,IZAPOP6,https://www.wunderground.com/dashboard/pws/IZAPOP6,Zapopan,21.2,0.0,79.0,3.2,11.3,0.0,E,CENTRO,Zapopan,Region Militar V,UMPC ZAPOPAN
+150,IZAPOP61,https://www.wunderground.com/dashboard/pws/IZAPOP61,Zapopan,,0.0,86.0,3.6,5.4,0.0,ENE,CENTRO,Zapopan,Real de valdepeñas,priv
+153,IZAPOP65,https://www.wunderground.com/dashboard/pws/IZAPOP65,Zapopan,20.5,0.0,84.0,2.3,4.8,0.01,N,CENTRO,Zapopan,San Antonio Chico,SEMADET
+154,IZAPOP66,https://www.wunderground.com/dashboard/pws/IZAPOP66,Zapopan,19.1,0.0,81.0,2.9,9.0,0.0,WNW,CENTRO,Zapopan,Los Robles,SEMADET
+156,IZAPOPAN27,https://www.wunderground.com/dashboard/pws/IZAPOPAN27,Technology Park,21.2,0.0,73.0,0.0,3.2,0.0,SSE,CENTRO,Zapopan,Technology Park,UMPC ZAPOPAN
+157,IZAPOPAN29,https://www.wunderground.com/dashboard/pws/IZAPOPAN29,UAG,20.7,0.0,77.0,8.0,16.1,0.25,SW,CENTRO,Zapopan,Estadio 3 de Marzo,UMPC ZAPOPAN
+158,IZAPOPAN30,https://www.wunderground.com/dashboard/pws/IZAPOPAN30,CENTRO DE SALUD LA PRIMAVERA,20.7,0.0,78.0,0.0,3.2,0.0,W,CENTRO,Zapopan,La venta del Astillero,UMPC ZAPOPAN
+159,IZAPOPAN32,https://www.wunderground.com/dashboard/pws/IZAPOPAN32,El Fortin,19.7,0.0,80.0,4.8,9.7,0.0,WNW,CENTRO,Zapopan,Preparatoria No. 20 UDG,UMPC ZAPOPAN
+160,IZAPOPAN36,https://www.wunderground.com/dashboard/pws/IZAPOPAN36,Las Canadas,20.7,0.0,79.0,1.6,9.7,0.0,SSE,CENTRO,Zapopan,Bosque del Centinela,UMPC ZAPOPAN
+162,IZAPOPAN38,https://www.wunderground.com/dashboard/pws/IZAPOPAN38,Plaza La Cima,21.2,0.0,75.0,4.8,11.3,0.0,SW,CENTRO,Zapopan,Jardines del Valle,UMPC ZAPOPAN
+163,IZAPOT12,https://www.wunderground.com/dashboard/pws/IZAPOT12,Zapotlanejo,21.0,0.0,83.0,1.1,1.8,0.0,SW,CENTRO,Zapotlanejo,Zapotlanejo,priv
+166,KJAGUADA1,https://www.wunderground.com/dashboard/pws/KJAGUADA1,Instituto de Astronomia y Meteorologia,20.7,0.0,82.0,0.0,0.0,0.25,SW,CENTRO,Guadalajara,IAM,IAM
+167,IACATI1,https://www.wunderground.com/dashboard/pws/IACATI1,Acatic,21.2,0.0,76.0,0.0,0.0,0.0,SSW,ALTOS SUR,Acatic,Acatic,SEMADET
+169,ITONAL13,https://www.wunderground.com/dashboard/pws/ITONAL13,Tonalá,20.3,0.0,85.0,9.4,11.2,0.0,SSE,CENTRO,Tonalá,Loma Dorada C,SEMADET
+170,ITEPAT8,https://www.wunderground.com/dashboard/pws/ITEPAT8,Tepatitlán,20.9,0.0,71.0,2.9,3.6,0.0,NNE,ALTOS SUR,Tepatitlán de Morelos,Cruz Roja,SEMADET
+171,IJESSM19,https://www.wunderground.com/dashboard/pws/IJESSM19,Jesús María,17.8,0.0,72.0,9.7,14.8,0.0,ENE,CIENEGA,Jesús María,Jesús María,SEMADET
