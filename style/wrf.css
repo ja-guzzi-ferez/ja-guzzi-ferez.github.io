@@ -294,3 +294,9 @@ footer {
   }
 }
 
+@media (max-width: 768px) {
+  #map {
+    height: 300px;        /* o 280px si lo quieres aún más compacto */
+    max-width: 100%;
+  }
+}
