@@ -365,6 +365,8 @@ function loadCurrentVariable() {
       }
 
       updateWindToggleButton();
+      prefetchAdjacentTimes();
+
 
 
     })
@@ -374,6 +376,29 @@ function loadCurrentVariable() {
     });
 
 }
+
+function prefetchAdjacentTimes() {
+  const times = availableTimes[currentVariable] || [];
+  if (times.length === 0) return;
+
+  const basePath = modelosConfig[currentModel].basePath;
+
+  const indices = [
+    currentTimeIndex - 1,
+    currentTimeIndex + 1
+  ];
+
+  indices.forEach(i => {
+    if (i < 0 || i >= times.length) return;
+
+    const t = times[i];
+    const url = `${basePath}/${currentVariable}_${t}.geojson`;
+
+    // Prefetch silencioso
+    fetch(url, { cache: "force-cache" }).catch(() => {});
+  });
+}
+
 
 function updateLegendImage() {
   const img = document.getElementById('legend-img');
