@@ -127,6 +127,10 @@ const modelosConfig = {
   ECMWF: {
     model: "ecmwf",
     timesFile: "ECMWF_times.json"
+  },
+  ICON: {
+    model: "icon",
+    timesFile: "ICON_times.json"
   }
 };
 
