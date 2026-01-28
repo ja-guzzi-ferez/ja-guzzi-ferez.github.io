@@ -325,7 +325,7 @@ async function loadFrentesData() {
     frentesLayerGroup.removeFrom(mapFrentes);
   }
 
-  const res = await fetch('jsons/front.json');
+  const res = await fetch('https://data.jmafp.xyz/frentes/front.json');
   const data = await res.json();
 
   const group = L.layerGroup();
