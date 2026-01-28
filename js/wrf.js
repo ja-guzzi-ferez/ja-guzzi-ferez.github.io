@@ -916,7 +916,7 @@ async function fetchImageAsBlobUrlSatelite(url) {
 async function preloadAndCreateOverlaysSatelite(data, delta = 0.8) {
   for (const frame of data) {
     try {
-      const blobUrl = await fetchImageAsBlobUrlSatelite('satelite/' + frame.file);
+      const blobUrl = await fetchImageAsBlobUrlSatelite('https://data.jmafp.xyz/satelite/' + frame.file);
       const overlay = L.imageOverlay(
         blobUrl,
         [[frame.bounds[0][0] - delta, frame.bounds[0][1]],
@@ -1057,7 +1057,7 @@ async function loadSatelliteBand(band) {
   setSatelliteUIVisible(true);
 
   try {
-    const res = await fetch('satelite/frames.json');
+    const res = await fetch('https://data.jmafp.xyz/satelite/frames.json');
     const data = await res.json();
     if (!data.length) {
       document.getElementById('time-display-satelite').textContent = 'No hay imágenes disponibles';
@@ -1128,7 +1128,7 @@ function initSatelite() {
   });
   
   // Cargar frames
-  fetch('satelite/frames.json')
+  fetch('https://data.jmafp.xyz/satelite/frames.json')
     .then(r => r.json())
     .then(async data => {
       if (!data.length) {
