@@ -381,7 +381,7 @@ async function initFrentes() {
   }).addTo(mapFrentes);
 
   // Capa de referencia repmex2
-  fetch('geojsons/repmex2.geojson')
+  fetch('geojsons/repmex4.geojson')
     .then(res => res.json())
     .then(data => {
       L.geoJSON(data, {
@@ -481,7 +481,7 @@ async function initCiclones() {
   mapCiclones.getPane('referenciaCiclones').style.zIndex = 650;
   
   // Cargar capa de referencia (límites de estados)
-  fetch('geojsons/repmex2.geojson')
+  fetch('geojsons/repmex4.geojson')
     .then(res => res.json())
     .then(data => {
       L.geoJSON(data, {
@@ -1102,7 +1102,7 @@ function initSatelite() {
   mapSatelite.getPane('referenciaSatelite').style.zIndex = 650;
   
   // Cargar capa de referencia
-  fetch('geojsons/repmex2.geojson')
+  fetch('geojsons/repmex4.geojson')
     .then(res => res.json())
     .then(data => {
       L.geoJSON(data, {
@@ -1526,7 +1526,7 @@ function cargarCapasReferencia() {
   // Capa de municipios
 
   // Capa de regiones
-  fetch('geojsons/repmex2.geojson')
+  fetch('geojsons/repmex4.geojson')
     .then(res => res.json())
     .then(data => {
       regionesLayer = L.geoJSON(data, {
@@ -1957,7 +1957,7 @@ async function initOceanografia() {
   }).addTo(mapOceanografia);
 
   // Capa de referencia
-  fetch('geojsons/repmex2.geojson')
+  fetch('geojsons/repmex4.geojson')
     .then(res => res.json())
     .then(data => {
       L.geoJSON(data, {
@@ -2400,7 +2400,7 @@ function initEstacional() {
   estacionalLayerGroup = L.layerGroup().addTo(mapEstacional);
 
   // Cargar capa de referencia (repmex2) DESPUÉS en pane superior
-  fetch('geojsons/repmex2.geojson')
+  fetch('geojsons/repmex4.geojson')
     .then(r => r.json())
     .then(data => {
       L.geoJSON(data, {
